@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Lucas Fabri 👋</h1>
+<h1 align="center">Olá, eu sou o Lucas Fabri 👋</h1>
 <h3>Engenheiro de Software | Desenvolvedor Front-end | Apaixonado por criar soluções inovadoras.</h3>
 
 <br>
