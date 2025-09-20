@@ -4,10 +4,8 @@
 💻 Engenheiro de Software com experiência em **Front-end** e integração de sistemas.  
 ✨ Apaixonado por tecnologia, busco constantemente **ampliar meus conhecimentos** e aplicá-los para trazer soluções inteligentes e escaláveis.
 
----
-
 ## 🚀 Sobre mim
-Tenho experiência no desenvolvimento Front-end, criando aplicações modernas e bem estruturadas.  
+Tenho 2 anos de experiência no desenvolvimento Front-end, criando aplicações modernas e bem estruturadas.  
 Meu foco é escrever **código limpo e escalável**, aplicando conceitos como:
 
 - **DRY** (Don't Repeat Yourself)  
@@ -20,8 +18,6 @@ Atualmente, estou aprimorando meus conhecimentos em **SOLID** para elevar ainda 
 Além disso, tenho vivência com **Azure, Git/GitHub, PRs, sprints e metodologias ágeis, controle de tasks e commits bem documentados**.  
 
 💡 Meus diferenciais incluem **soft skills fortes** e a capacidade de trabalhar em equipe de forma colaborativa.
-
----
 
 ## 🛠️ Minhas Stacks
 
@@ -36,6 +32,7 @@ Além disso, tenho vivência com **Azure, Git/GitHub, PRs, sprints e metodologia
 ![Expo](https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)
+![Minimals](https://img.shields.io/badge/-Minimals-000?style=flat)
 
 **Back-end & Banco de Dados:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
@@ -49,6 +46,9 @@ Além disso, tenho vivência com **Azure, Git/GitHub, PRs, sprints e metodologia
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![Notion](https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff)
+![Miro](https://img.shields.io/badge/-Miro-F7C922?logo=miro&logoColor=000)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
 
 ---
 
@@ -60,6 +60,11 @@ Além disso, tenho vivência com **Azure, Git/GitHub, PRs, sprints e metodologia
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-da-cunha-fabri-b34ab4312/)  
+
+---
+
+> _"Qualquer um pode escrever código que um computador entenda.  
+> Bons programadores escrevem código que humanos entendem."_ – Martin Fowler
 
 <!--
 **Cunhaww-dev/Cunhaww-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
