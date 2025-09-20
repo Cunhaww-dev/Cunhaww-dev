@@ -1,11 +1,11 @@
 <h1>Olá, eu sou o Lucas Fabri 👋</h1>
 <h3>Software engineer | Developer </h3>
 
+## 🚀 Sobre Mim
+
 🎓 Estudante de **Ciência da Computação** na **Universidade São Judas** (a partir de 2025).  
 💻 Engenheiro de Software com 2 anos de experiência, focado em desenvolvimento **Front-end** e integração de sistemas.  
 ✨ Busco constantemente **ampliar meus conhecimentos** para construir soluções inteligentes, escaláveis e com código de alta qualidade.
-
-## 🚀 Sobre Mim
 
 Com uma trajetória focada no ecossistema Front-end, minha paixão é transformar ideias em aplicações modernas, intuitivas e performáticas. Tenho sólida experiência em metodologias ágeis, trabalhando com **sprints, Git/GitHub, Pull Requests bem documentados e Azure DevOps** para garantir um ciclo de desenvolvimento eficiente e colaborativo.
 
