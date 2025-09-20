@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o Lucas Fabri 👋</h1>
-<h3 align="center">Engenheiro de Software | Desenvolvedor Front-end | Apaixonado por criar soluções inovadoras.</h3>
+<h1>Olá, eu sou o Lucas Fabri 👋</h1>
+<h3>Engenheiro de Software | Desenvolvedor Front-end | Apaixonado por criar soluções inovadoras.</h3>
 
 <br>
 
@@ -27,63 +27,47 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
 
 ## 🛠️ Minhas Stacks
 
-<div align="center">
-  
+## 🛠️ Tecnologias e Ferramentas
+
 ### Front-end
-  
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
-  <br>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" alt="React">
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000" alt="React Native">
-  <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js" alt="Next.js">
-  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff" alt="Angular">
-  <br>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff" alt="MUI">
-  <img src="https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=fff" alt="Expo">
-</p>
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff)
+![Expo](https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=fff)
 
 ### Back-end & Banco de Dados
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff)
 
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" alt="Node.js">
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff" alt="C#">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="SQL Server">
-</p>
-  
-### Ferramentas & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff" alt="Azure">
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff" alt="Postman">
-  <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000" alt="Swagger">
-  <br>
-  <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff" alt="Axios">
-  <img src="https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff" alt="Notion">
-  <img src="https://img.shields.io/badge/-Miro-F7C922?logo=miro&logoColor=000" alt="Miro">
-</p>
-
-</div>
-
+### Outros conhecimentos
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff)
+![Notion](https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff)
+![Miro](https://img.shields.io/badge/-Miro-F7C922?logo=miro&logoColor=000)
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Cunhaww-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
 
----
 
 ## 🌐 Conecte-se comigo
 
