@@ -1,78 +1,106 @@
-# 👋 Olá, eu sou o Lucas Fabri!
+<h1 align="center">Olá, eu sou o Lucas Fabri 👋</h1>
+<h3 align="center">Engenheiro de Software | Desenvolvedor Front-end | Apaixonado por criar soluções inovadoras.</h3>
 
-🎓 Estudante de **Ciência da Computação** na **Universidade São Judas** (início em 2025).  
-💻 Engenheiro de Software com experiência em **Front-end** e integração de sistemas.  
-✨ Apaixonado por tecnologia, busco constantemente **ampliar meus conhecimentos** e aplicá-los para trazer soluções inteligentes e escaláveis.
+<br>
 
-## 🚀 Sobre mim
-Tenho 2 anos de experiência no desenvolvimento Front-end, criando aplicações modernas e bem estruturadas.  
-Meu foco é escrever **código limpo e escalável**, aplicando conceitos como:
+🎓 Futuro estudante de **Ciência da Computação** na **Universidade São Judas** (a partir de 2025).  
+💻 Engenheiro de Software com 2 anos de experiência, focado em desenvolvimento **Front-end** e integração de sistemas.  
+✨ Busco constantemente **ampliar meus conhecimentos** para construir soluções inteligentes, escaláveis e com código de alta qualidade.
 
-- **DRY** (Don't Repeat Yourself)  
-- **KISS** (Keep It Simple, Stupid)  
-- **YAGNI** (You Aren't Gonna Need It)  
-- **Early Return**  
-- **Regra do Escoteiro**  
+---
 
-Atualmente, estou aprimorando meus conhecimentos em **SOLID** para elevar ainda mais a qualidade dos meus projetos.  
-Além disso, tenho vivência com **Azure, Git/GitHub, PRs, sprints e metodologias ágeis, controle de tasks e commits bem documentados**.  
-Meus diferenciais incluem **soft skills fortes** e a capacidade de trabalhar em equipe de forma colaborativa.
+## 🚀 Sobre Mim
 
-## 🛠️ Minhas Stacks
+Com uma trajetória focada no ecossistema Front-end, minha paixão é transformar ideias em aplicações modernas, intuitivas e performáticas. Tenho sólida experiência em metodologias ágeis, trabalhando com **sprints, Git/GitHub, Pull Requests bem documentados e Azure DevOps** para garantir um ciclo de desenvolvimento eficiente e colaborativo.
 
-**Front-end:**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![Expo](https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=fff)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff)
+Minhas **soft skills**, como comunicação clara e trabalho em equipe, são diferenciais que aplico diariamente para potencializar os resultados do time.
 
-**Back-end & Banco de Dados:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
+## 💡 Princípios de Código
 
-**Outros conhecimentos:**  
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff)
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![Notion](https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff)
-![Miro](https://img.shields.io/badge/-Miro-F7C922?logo=miro&logoColor=000)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
+Acredito que a qualidade do código é a base para produtos sustentáveis. Por isso, aplico diariamente os seguintes princípios:
 
+- **DRY** (Don't Repeat Yourself)
+- **KISS** (Keep It Simple, Stupid)
+- **YAGNI** (You Aren't Gonna Need It)
+- **Early Return**
+- **Regra do Escoteiro** (Deixar o código sempre mais limpo do que o encontrou)
+
+Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais a arquitetura e a manutenibilidade dos meus projetos.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">Front-end</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5">
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
+        <br>
+        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" alt="React">
+        <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000" alt="React Native">
+        <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js" alt="Next.js">
+        <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff" alt="Angular">
+        <br>
+        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff" alt="TailwindCSS">
+        <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff" alt="MUI">
+        <img src="https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=fff" alt="Expo">
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">Back-end & Banco de Dados</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" alt="Node.js">
+        <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff" alt="C#">
+        <br>
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff" alt="MongoDB">
+        <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="SQL Server">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">Outras Ferramentas</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git">
+        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff" alt="GitHub">
+        <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff" alt="Azure">
+        <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000" alt="Swagger">
+        <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff" alt="Postman">
+        <br>
+        <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff" alt="Axios">
+        <img src="https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff" alt="Notion">
+        <img src="https://img.shields.io/badge/-Miro-F7C922?logo=miro&logoColor=000" alt="Miro">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📊 GitHub Stats
-<!-- ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=radical) -->  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=radical)
 
+<p align="center">
+  <a href="https://github.com/Cunhaww-dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</p>
 
-## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-da-cunha-fabri-b34ab4312/)  
+---
 
+## 🌐 Conecte-se comigo
 
-> _"Qualquer um pode escrever código que um computador entenda.  
-> Bons programadores escrevem código que humanos entendem."_ – Martin Fowler
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-da-cunha-fabri-b34ab4312/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn">
+  </a>
+  </p>
 
-<!--
-**Cunhaww-dev/Cunhaww-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _"Qualquer um pode escrever código que um computador entenda. Bons programadores escrevem código que humanos entendem."_ – Martin Fowler
