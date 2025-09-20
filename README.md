@@ -15,7 +15,7 @@ Minhas **soft skills**, como comunicação clara e trabalho em equipe, são dife
 
 Acredito que a qualidade do código é a base para produtos sustentáveis. Por isso, aplico diariamente os seguintes princípios:
 - **DRY** (Don't Repeat Yourself) - **KISS** (Keep It Simple, Stupid) - **YAGNI** (You Aren't Gonna Need It)
-- **Early Return** (Evitar aninhamentos de código) - **Regra do Escoteiro** (Sempre deixar o código um pouco melhor do que você o encontrou)
+- **Early Return** - **Regra do Escoteiro**
 
 Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais a arquitetura e a manutenibilidade dos meus projetos.
 
