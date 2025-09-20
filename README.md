@@ -16,8 +16,7 @@ Meu foco é escrever **código limpo e escalável**, aplicando conceitos como:
 
 Atualmente, estou aprimorando meus conhecimentos em **SOLID** para elevar ainda mais a qualidade dos meus projetos.  
 Além disso, tenho vivência com **Azure, Git/GitHub, PRs, sprints e metodologias ágeis, controle de tasks e commits bem documentados**.  
-
-💡 Meus diferenciais incluem **soft skills fortes** e a capacidade de trabalhar em equipe de forma colaborativa.
+Meus diferenciais incluem **soft skills fortes** e a capacidade de trabalhar em equipe de forma colaborativa.
 
 ## 🛠️ Minhas Stacks
 
@@ -50,19 +49,15 @@ Além disso, tenho vivência com **Azure, Git/GitHub, PRs, sprints e metodologia
 ![Miro](https://img.shields.io/badge/-Miro-F7C922?logo=miro&logoColor=000)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
 
----
 
 ## 📊 GitHub Stats
 <!-- ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=radical) -->  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=radical)
 
----
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-da-cunha-fabri-b34ab4312/)  
 
-
----
 
 > _"Qualquer um pode escrever código que um computador entenda.  
 > Bons programadores escrevem código que humanos entendem."_ – Martin Fowler
