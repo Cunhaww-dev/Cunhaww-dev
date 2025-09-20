@@ -3,11 +3,9 @@
 
 <br>
 
-🎓 Futuro estudante de **Ciência da Computação** na **Universidade São Judas** (a partir de 2025).  
+🎓 Estudante de **Ciência da Computação** na **Universidade São Judas** (a partir de 2025).  
 💻 Engenheiro de Software com 2 anos de experiência, focado em desenvolvimento **Front-end** e integração de sistemas.  
 ✨ Busco constantemente **ampliar meus conhecimentos** para construir soluções inteligentes, escaláveis e com código de alta qualidade.
-
----
 
 ## 🚀 Sobre Mim
 
@@ -27,58 +25,52 @@ Acredito que a qualidade do código é a base para produtos sustentáveis. Por i
 
 Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais a arquitetura e a manutenibilidade dos meus projetos.
 
----
+## 🛠️ Minhas Stacks
 
-## 🛠️ Tecnologias e Ferramentas
+<div align="center">
+  
+### Front-end
+  
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
+  <br>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" alt="React">
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000" alt="React Native">
+  <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js" alt="Next.js">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff" alt="Angular">
+  <br>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff" alt="MUI">
+  <img src="https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=fff" alt="Expo">
+</p>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">Front-end</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5">
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
-        <br>
-        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" alt="React">
-        <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000" alt="React Native">
-        <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js" alt="Next.js">
-        <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff" alt="Angular">
-        <br>
-        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff" alt="TailwindCSS">
-        <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff" alt="MUI">
-        <img src="https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=fff" alt="Expo">
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">Back-end & Banco de Dados</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" alt="Node.js">
-        <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff" alt="C#">
-        <br>
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff" alt="MongoDB">
-        <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="SQL Server">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">Outras Ferramentas</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git">
-        <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff" alt="GitHub">
-        <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff" alt="Azure">
-        <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000" alt="Swagger">
-        <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff" alt="Postman">
-        <br>
-        <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff" alt="Axios">
-        <img src="https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff" alt="Notion">
-        <img src="https://img.shields.io/badge/-Miro-F7C922?logo=miro&logoColor=000" alt="Miro">
-      </p>
-    </td>
-  </tr>
-</table>
+### Back-end & Banco de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" alt="Node.js">
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff" alt="C#">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff" alt="SQL Server">
+</p>
+  
+### Ferramentas & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff" alt="Azure">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff" alt="Postman">
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000" alt="Swagger">
+  <br>
+  <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff" alt="Axios">
+  <img src="https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff" alt="Notion">
+  <img src="https://img.shields.io/badge/-Miro-F7C922?logo=miro&logoColor=000" alt="Miro">
+</p>
+
+</div>
 
 ---
 
