@@ -32,7 +32,7 @@ Além disso, tenho vivência com **Azure, Git/GitHub, PRs, sprints e metodologia
 ![Expo](https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)
-![Minimals](https://img.shields.io/badge/-Minimals-000?style=flat)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff)
 
 **Back-end & Banco de Dados:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
@@ -60,6 +60,7 @@ Além disso, tenho vivência com **Azure, Git/GitHub, PRs, sprints e metodologia
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-da-cunha-fabri-b34ab4312/)  
+
 
 ---
 
