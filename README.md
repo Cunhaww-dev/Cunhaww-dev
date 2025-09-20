@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o Lucas Fabri 👋</h1>
-<h3 align="center">Software engineer | Developer </h3>
+##Olá, eu sou o Lucas Fabri 👋
+<h3>Software engineer | Developer </h3>
 
 <br>
 
