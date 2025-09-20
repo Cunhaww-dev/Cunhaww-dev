@@ -53,7 +53,7 @@ Além disso, tenho vivência com **Azure, Git/GitHub, PRs, sprints e metodologia
 ---
 
 ## 📊 GitHub Stats
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=radical)  
+<!-- ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=radical) -->  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=radical)
 
 ---
