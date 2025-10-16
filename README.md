@@ -39,7 +39,6 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub">
   <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge" alt="Azure">
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" alt="Postman">
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge" alt="Swagger">
   <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" alt="Axios">
   <img src="https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff&style=for-the-badge" alt="Notion">
