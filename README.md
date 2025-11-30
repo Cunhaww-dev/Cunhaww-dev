@@ -48,11 +48,10 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
 
 ## 📊 GitHub Stats
 
-<section>
-  <a href="https://github.com/Cunhaww-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</section>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" />
+</div>
+
 
 
 ## 🌐 Conecte-se comigo
