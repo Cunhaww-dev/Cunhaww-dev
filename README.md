@@ -35,7 +35,7 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
   <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge" alt="MUI">
   <img src="https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=fff&style=for-the-badge" alt="Expo">
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" alt="Node.js">
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff&style=for-the-badge" alt="C#">
+  <!-- <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff&style=for-the-badge" alt="C#"> -->
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="SQL Server">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub">
