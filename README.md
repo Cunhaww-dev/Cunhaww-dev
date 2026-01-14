@@ -37,6 +37,7 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" alt="Node.js">
   <!-- <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff&style=for-the-badge" alt="C#"> -->
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="SQL Server">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub">
   <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge" alt="Azure">
