@@ -59,6 +59,8 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
 <div align="left">
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&rank_icon=github" />
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cunhaww-dev&theme=tokyo-night&hide_border=true&radius=12" />
+
 </div>
 
 
