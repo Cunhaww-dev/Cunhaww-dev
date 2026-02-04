@@ -27,14 +27,15 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React">
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Native">
+  <!-- <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Native"> -->
   <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js&style=for-the-badge" alt="Next.js">
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge" alt="Angular">
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=fff&style=for-the-badge" alt="shadcn/ui">
   <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge" alt="MUI">
-  <img src="https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=fff&style=for-the-badge" alt="Expo">
+  <!-- <img src="https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=fff&style=for-the-badge" alt="Expo"> -->
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" alt="Express.js">
   <!-- <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff&style=for-the-badge" alt="C#"> -->
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="SQL Server">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL">
