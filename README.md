@@ -1,9 +1,9 @@
 <h1>Olá, eu sou o Lucas Fabri 👋</h1>
 <h3>Software engineer | Developer </h3>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-🎓 Estudante de **Ciência da Computação** na **Universidade São Judas** (a partir de 2025).  
+🎓 Estudante de **Ciência da Computação** na **Universidade São Judas** (Início em 2025).  
 💻 Engenheiro de Software com 2 anos de experiência, focado em desenvolvimento **Front-end** e integração de sistemas.  
 ✨ **Ampliando meus conhecimentos** para construir soluções inteligentes, escaláveis e com código de alta qualidade.
 
@@ -11,7 +11,7 @@ Com uma trajetória focada no ecossistema Front-end, minha paixão é transforma
 
 Minhas **soft skills**, como comunicação clara e trabalho em equipe, são diferenciais que aplico diariamente para potencializar os resultados do time.
 
-## 💡 Princípios de Código
+## Princípios de Código
 
 Acredito que a qualidade do código é a base para produtos sustentáveis. Por isso, aplico diariamente os seguintes princípios:
 - **DRY** (Don't Repeat Yourself) - **KISS** (Keep It Simple, Stupid) - **YAGNI** (You Aren't Gonna Need It)
@@ -58,10 +58,7 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&rank_icon=github" />
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" />
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cunhaww-dev&theme=tokyo-night&hide_border=true&radius=12" /> -->
-
 </div>
-
-
 
 
 ## 🌐 Conecte-se comigo
