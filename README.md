@@ -7,7 +7,7 @@
 💻 Engenheiro de Software com 2 anos de experiência, focado em desenvolvimento **Front-end** e integração de sistemas.  
 ✨ **Ampliando meus conhecimentos** para construir soluções inteligentes, escaláveis e com código de alta qualidade.
 
-Com uma trajetória focada no ecossistema Front-end, minha paixão é transformar ideias em aplicações modernas, intuitivas e performáticas. Tenho sólida experiência em metodologias ágeis, trabalhando com **sprints, Git/GitHub, Pull Requests bem documentados e Azure DevOps** para garantir um ciclo de desenvolvimento eficiente e colaborativo.
+Com uma trajetória focada no ecossistema Full_stack, minha paixão é transformar ideias em aplicações modernas, intuitivas e performáticas. Tenho sólida experiência em metodologias ágeis, trabalhando com **sprints, Git/GitHub, Pull Requests bem documentados e Azure DevOps** para garantir um ciclo de desenvolvimento eficiente e colaborativo.
 
 Minhas **soft skills**, como comunicação clara e trabalho em equipe, são diferenciais que aplico diariamente para potencializar os resultados do time.
 
