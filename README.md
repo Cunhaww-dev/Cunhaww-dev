@@ -64,9 +64,9 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
 <img src="https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff&style=for-the-badge" alt="Notion">
 <img src="https://img.shields.io/badge/-Miro-F7C922?logo=miro&logoColor=000&style=for-the-badge" alt="Miro">
 </section>
-<div align="left">
+<!-- <div align="left">
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" />
-</div>
+</div> -->
 
 
 ## 📊 GitHub Stats
@@ -74,7 +74,7 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
 <div align="left">
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&rank_icon=github" />
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cunhaww-dev&theme=tokyo-night&hide_border=true&radius=12" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cunhaww-dev&theme=tokyo-night&hide_border=true&radius=12" /> -->
 </div>
 
 
