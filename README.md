@@ -57,6 +57,7 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub">
 
 <!-- Cloud -->
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker">
 <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge" alt="Azure">
 
 <!-- Productivity -->
