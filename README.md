@@ -1,6 +1,6 @@
 <h1>Olá, eu sou o Lucas Fabri 👋</h1>
 
-<h3>Full Stack Developer | React.js • Next.js • Node.js • TypeScript</h3>
+<h3>Full Stack Developer</h3>
 
 ## Sobre mim
 
@@ -14,17 +14,16 @@ Gosto de desenvolver aplicações organizadas, performáticas e sustentáveis, e
 
 ## Mentalidade de desenvolvimento
 
-Alguns princípios que aplico diariamente no desenvolvimento:
+Busco desenvolver aplicações com foco em:
+- código limpo e sustentável
+- separação de responsabilidades
+- componentização
+- legibilidade e manutenção
+- simplicidade e escalabilidade
 
-- DRY - KISS - YAGNI - Early Return - Clean Code - Componentização
-- Separação de responsabilidades - Código legível e sustentável
-- Regra do Escoteiro
+Atualmente aprofundando estudos em SOLID, Clean Architecture, Design Patterns e arquitetura backend com Node.js.
 
-Atualmente aprofundando estudos em:
-- SOLID - Clean Architecture - Design Patterns
-- Escalabilidade de aplicações - Arquitetura backend com Node.js
-
-## Core Stack
+## Tech Stack
 
 <section>
 
@@ -61,8 +60,6 @@ Atualmente aprofundando estudos em:
   
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" />
 </div>
-
----
 
 ## Contato
 
