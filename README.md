@@ -1,85 +1,93 @@
 <h1>Olá, eu sou o Lucas Fabri 👋</h1>
-<h3>Software engineer | Developer </h3>
 
-## Sobre Mim
+<h3>Full Stack Developer | React.js • Next.js • Node.js • TypeScript</h3>
 
-🎓 Estudante de **Ciência da Computação** na **Universidade São Judas** (Início em 2025).  
-💻 Engenheiro de Software com 2 anos de experiência, focado em desenvolvimento **Front-end** e integração de sistemas.  
-✨ **Ampliando meus conhecimentos** para construir soluções inteligentes, escaláveis e com código de alta qualidade.
+---
 
-Com uma trajetória focada no ecossistema Full_stack, minha paixão é transformar ideias em aplicações modernas, intuitivas e performáticas. Tenho sólida experiência em metodologias ágeis, trabalhando com **sprints, Git/GitHub, Pull Requests bem documentados e Azure DevOps** para garantir um ciclo de desenvolvimento eficiente e colaborativo.
+## Sobre mim
 
-Minhas **soft skills**, como comunicação clara e trabalho em equipe, são diferenciais que aplico diariamente para potencializar os resultados do time.
+Desenvolvedor Full Stack com experiência prática na construção de aplicações web modernas, atuando principalmente com React.js, Next.js, TypeScript e Node.js.
 
-## Princípios de Código
+Tenho experiência em ambiente corporativo trabalhando com desenvolvimento frontend e backend, integração de APIs REST, modelagem de banco de dados, refatoração de sistemas, versionamento com Git e metodologias ágeis.
 
-Acredito que a qualidade do código é a base para produtos sustentáveis. Por isso, aplico diariamente os seguintes princípios:
-- **DRY** (Don't Repeat Yourself) - **KISS** (Keep It Simple, Stupid) - **YAGNI** (You Aren't Gonna Need It)
-- **Early Return** - **Regra do Escoteiro**
+Atualmente venho aprofundando meus conhecimentos em arquitetura de software, cloud, Docker e aplicações escaláveis, buscando evoluir cada vez mais minha visão de engenharia de software e construção de produtos.
 
-Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais a arquitetura e a manutenibilidade dos meus projetos.
+Gosto de desenvolver aplicações organizadas, performáticas e sustentáveis, equilibrando experiência do usuário, qualidade de código e clareza de manutenção.
 
-## 🛠️ Minhas Stacks e Ferramentas
+---
+
+## Mentalidade de desenvolvimento
+
+Alguns princípios que aplico diariamente no desenvolvimento:
+
+- DRY
+- KISS
+- YAGNI
+- Early Return
+- Clean Code
+- Separação de responsabilidades
+- Componentização
+- Código legível e sustentável
+
+Atualmente aprofundando estudos em:
+- SOLID
+- Clean Architecture
+- Design Patterns
+- Escalabilidade de aplicações
+- Arquitetura backend com Node.js
+
+---
+
+## Core Stack
 
 <section>
-  <!-- Web Fundamentals -->
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3">
 
-<!-- Language -->
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript">
-
-<!-- Frontend -->
+### Frontend
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React">
 <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js&style=for-the-badge" alt="Next.js">
-<!-- <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge" alt="Angular"> -->
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript">
 <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="TailwindCSS">
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=fff&style=for-the-badge" alt="shadcn/ui">
-<img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge" alt="MUI">
 
-<!-- Backend -->
+### Backend
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" alt="Node.js">
 <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" alt="Express.js">
-<img src="https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=fff&style=for-the-badge" alt="Zod">
-<img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" alt="Axios">
-
-<!-- API / Documentation -->
-<img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge" alt="Swagger">
-
-<!-- Databases -->
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL">
-<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" alt="SQL Server">
 
-<!-- Version Control -->
+### Ferramentas & Ambiente
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker">
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git">
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub">
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux">
+<img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=for-the-badge" alt="Azure DevOps">
 
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker">
-<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge" alt="Azure">
-
-<!-- Productivity -->
-<img src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=for-the-badge" alt="Obsidian">
-<img src="https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff&style=for-the-badge" alt="Notion">
-<img src="https://img.shields.io/badge/-Miro-F7C922?logo=miro&logoColor=000&style=for-the-badge" alt="Miro">
 </section>
-<!-- <div align="left">
-  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" />
-</div> -->
 
+---
 
-## 📊 GitHub Stats
+## Atualmente estudando
+
+- Arquitetura de Software
+- Docker & Containers
+- AWS
+- Node.js avançado
+- Escalabilidade e performance
+- Design Patterns
+- Integração com IA e LLMs
+
+---
+
+## GitHub Stats
 
 <div align="left">
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&rank_icon=github" />
+  
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" />
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cunhaww-dev&theme=tokyo-night&hide_border=true&radius=12" /> -->
 </div>
 
+---
 
-## 🌐 Conecte-se comigo
+## Contato
 
 <section align="left">
   <a href="https://www.linkedin.com/in/lucas-da-cunha-fabri-b34ab4312/" target="_blank">
@@ -89,4 +97,4 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
 
 <br>
 
-> _"Qualquer um pode escrever código que um computador entenda. Bons programadores escrevem código que humanos entendem."_ – Martin Fowler
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
