@@ -44,7 +44,7 @@ Estou estudando SOLID, Clean Architecture, Design Patterns e arquitetura backend
 <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux">
 <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=for-the-badge" alt="Azure DevOps">
 <br />
-**Produtividade**
+<b>Produtividade</b>
 <br />
 <img src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=for-the-badge" alt="Obsidian">
 <img src="https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff&style=for-the-badge" alt="Notion">
