@@ -33,7 +33,7 @@ Atualmente, estou aprofundando meus estudos em **SOLID** para elevar ainda mais 
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React">
 <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js&style=for-the-badge" alt="Next.js">
-<img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge" alt="Angular">
+<!-- <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge" alt="Angular"> -->
 <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="TailwindCSS">
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=fff&style=for-the-badge" alt="shadcn/ui">
 <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge" alt="MUI">
