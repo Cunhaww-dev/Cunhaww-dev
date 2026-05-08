@@ -12,41 +12,30 @@ Atualmente venho aprofundando meus conhecimentos em arquitetura de software, clo
 
 Gosto de desenvolver aplicações organizadas, performáticas e sustentáveis, equilibrando experiência do usuário, qualidade de código e clareza de manutenção.
 
----
-
 ## Mentalidade de desenvolvimento
 
 Alguns princípios que aplico diariamente no desenvolvimento:
 
-- **DRY** (Don't Repeat Yourself) - **KISS** (Keep It Simple, Stupid) - **YAGNI** (You Aren't Gonna Need It)
-- **Early Return** - **Regra do Escoteiro**
-
 - DRY - KISS - YAGNI - Early Return - Clean Code - Componentização
 - Separação de responsabilidades - Código legível e sustentável
+- Regra do Escoteiro
 
 Atualmente aprofundando estudos em:
 - SOLID - Clean Architecture - Design Patterns
 - Escalabilidade de aplicações - Arquitetura backend com Node.js
 
----
-
 ## Core Stack
 
 <section>
 
-#### Frontend
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React">
 <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js&style=for-the-badge" alt="Next.js">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript">
 <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="TailwindCSS">
-
-#### Backend
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" alt="Node.js">
 <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" alt="Express.js">
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL">
-
-#### Ferramentas & Ambiente
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker">
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git">
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub">
@@ -54,8 +43,6 @@ Atualmente aprofundando estudos em:
 <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=for-the-badge" alt="Azure DevOps">
 
 </section>
-
----
 
 ## Atualmente estudando
 
@@ -66,8 +53,6 @@ Atualmente aprofundando estudos em:
 - Escalabilidade e performance
 - Design Patterns
 - Integração com IA e LLMs
-
----
 
 ## GitHub Stats
 
