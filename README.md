@@ -1,14 +1,14 @@
 <h1>Olá, eu sou o Lucas Fabri 👋</h1>
 
-<h3>Full Stack Developer</h3>
+<h3>Software Engineer</h3>
 
 ## Sobre mim
 
-Desenvolvedor Full Stack com experiência prática na construção de aplicações web modernas, atuando principalmente com React.js, Next.js, TypeScript e Node.js.
+Software Engineer com experiência prática na construção de aplicações web modernas, atuando principalmente com React.js, Next.js, TypeScript e Node.js.
 
 Tenho experiência em ambiente corporativo trabalhando com desenvolvimento frontend e backend, integração de APIs REST, modelagem de banco de dados, refatoração de sistemas, versionamento com Git e metodologias ágeis.
 
-Atualmente venho aprofundando meus conhecimentos em arquitetura de software, cloud, Docker e aplicações escaláveis, buscando evoluir cada vez mais minha visão de engenharia de software e construção de produtos.
+Atualmente venho aprofundando meus conhecimentos em arquitetura de software, cloud, Docker e aplicações escaláveis, buscando evoluir cada vez mais minha visão de engenharia de software, arquitetura e construção de produtos.
 
 Gosto de desenvolver aplicações organizadas, performáticas e sustentáveis, equilibrando experiência do usuário, qualidade de código e clareza de manutenção.
 
@@ -37,8 +37,8 @@ Estou estudando SOLID, Clean Architecture, Design Patterns e arquitetura backend
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" alt="Node.js">
 <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" alt="Express.js">
 <img src="https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=fff&style=for-the-badge" alt="Zod">
-<img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge" alt="Swagger">
-<img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" alt="Axios">
+<!-- <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge" alt="Swagger"> -->
+<!-- <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" alt="Axios"> -->
 
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL">
@@ -60,18 +60,15 @@ Estou estudando SOLID, Clean Architecture, Design Patterns e arquitetura backend
 
 ## Atualmente estudando
 
-- Arquitetura de Software
-- Docker & Containers
+- Arquitetura de Software (DDD, Clean Architecture e design patterns)
+- Docker e containers
 - AWS
-- Node.js avançado
-- Escalabilidade e performance
-- Design Patterns
-- Integração com IA e LLMs
+- Node.js avançado: concorrência (event loop) e paralelismo (worker_threads)
 
 ## GitHub Stats
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&rank_icon=github" />
+  <!-- <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&rank_icon=github" /> -->
   
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Cunhaww-dev&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" />
 </div>
