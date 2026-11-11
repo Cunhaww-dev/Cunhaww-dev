@@ -65,9 +65,9 @@ Estou estudando SOLID, Clean Architecture, Design Patterns e arquitetura backend
 - AWS
 - Node.js avançado: concorrência (event loop) e paralelismo (worker_threads)
 
+<!-- 
 ## GitHub Stats
 
-<!-- 
 <div align="left">
   <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Cunhaww-dev&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&rank_icon=github" />
 </div>
